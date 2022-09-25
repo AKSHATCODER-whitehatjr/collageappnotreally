@@ -1,0 +1,25 @@
+#start-btn
+{
+  background-color: green;
+    width: 200px;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body
+{
+background: linear-gradient(crimson,rgb(216, 149, 24),rgb(231, 231, 85),rgb(236, 123, 142));    
+}
